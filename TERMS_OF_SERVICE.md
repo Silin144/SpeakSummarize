@@ -204,7 +204,7 @@ The above does not apply to:
 
 For questions, support, or concerns about these Terms:
 
-- **Email:** silin@silin.ca
+- **Email:** silin.gupta14@gmail.com
 - **GitHub:** [https://github.com/Silin144/SpeakSummarize](https://github.com/Silin144/SpeakSummarize)
 - **Response Time:** We aim to respond within 48 hours (business days)
 

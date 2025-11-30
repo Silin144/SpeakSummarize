@@ -171,7 +171,7 @@ Continued use of the app after changes constitutes acceptance of the updated pol
 
 If you have questions about this Privacy Policy or want to exercise your privacy rights:
 
-- **Email:** silin@silin.ca
+- **Email:** silin.gupta14@gmail.com
 - **GitHub:** [https://github.com/Silin144/SpeakSummarize](https://github.com/Silin144/SpeakSummarize)
 - **Response Time:** We aim to respond within 48 hours
 
