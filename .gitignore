@@ -1,0 +1,48 @@
+# Xcode
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.pbxproj
+DerivedData/
+build/
+
+# Swift
+*.swiftmodule
+*.swiftdoc
+
+# iOS
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+
+# App files - not needed in policies repo
+SpeakSummarize/
+SpeakSummarizeWidgetExtension/
+backend-proxy/
+
+# Images and assets
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.ttf
+
+# Documentation (except policies)
+*.md
+!PRIVACY_POLICY.md
+!TERMS_OF_SERVICE.md
+!POLICIES_README.md
+!LICENSE
+
+# Other files
+*.plist
+*.storekit
+*.entitlements
+*.toml
+*.js
+*.json
+*.swift
+*.xcscheme
