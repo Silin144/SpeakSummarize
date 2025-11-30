@@ -7,13 +7,6 @@ Official privacy policy and terms of service for the SpeakSummarize iOS app.
 - **[Privacy Policy](PRIVACY_POLICY.md)** - How we collect, use, and protect your data
 - **[Terms of Service](TERMS_OF_SERVICE.md)** - Terms and conditions for using the app
 
-## 🔗 Live URLs
-
-Once GitHub Pages is enabled:
-
-- **Privacy Policy:** https://silin144.github.io/SpeakSummarize/PRIVACY_POLICY
-- **Terms of Service:** https://silin144.github.io/SpeakSummarize/TERMS_OF_SERVICE
-
 ## 📱 About SpeakSummarize
 
 SpeakSummarize is an AI-powered voice recording and transcription iOS app featuring Echo, your calm AI memory companion.
@@ -36,15 +29,15 @@ SpeakSummarize is an AI-powered voice recording and transcription iOS app featur
 
 ## 📧 Contact
 
-- **Email:** silin@silin.ca
+- **Email:** silin.gupta14@gmail.com
 - **Website:** [silin.ca](https://silin.ca)
 - **Developer:** [Silin Raj Gupta](https://github.com/Silin144)
 
 ## 📝 License
 
-These documents are licensed under [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+Copyright (c) 2025 Silin Raj Gupta. All Rights Reserved.
 
-You are free to use these as a template for your own app's policies with attribution.
+See [LICENSE](LICENSE) for details.
 
 ---
 
