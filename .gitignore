@@ -32,10 +32,9 @@ backend-proxy/
 
 # Documentation (except policies)
 *.md
+!README.md
 !PRIVACY_POLICY.md
 !TERMS_OF_SERVICE.md
-!POLICIES_README.md
-!LICENSE
 
 # Other files
 *.plist
